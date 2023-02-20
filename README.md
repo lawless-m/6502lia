@@ -1,2 +1,2 @@
-# 6502lia
-Julia DSL for 6502 assembler
+# Six502lia
+Julia DSL for Six502 assembler
